@@ -1,0 +1,11 @@
+#banner {
+  position: fixed;
+  top: 0;
+  width: 50%;
+  margin: 380px -700px 0 0;
+  right: 0;
+}
+
+video {
+  width: 30%;
+}
